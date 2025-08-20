@@ -1,0 +1,109 @@
+Internet of Things (IoT): Definitions, Challenges and
+Recent Research Directions
+Zainab H. AliHesham A. AliMahmoud M. Badawy
+Dept. of Computer Eng. &
+Systems, Mansoura University,
+Egypt.Dept. of Computer Eng. &
+Systems, Mansoura University,
+Egypt.Dept. of Computer Eng. &
+Systems, Mansoura University,
+Egypt.
+ABSTRACT
+In this paper, we seek to highlight the concept of Internet of
+Things (IoT) in general, as well as reviewing the main
+challenges of the IoT environment by focusing on the recent
+research directions in this topic. Recently, IoT has emerged
+as a new technology that is used to express a modern
+wireless telecommunication network, and it can be defined
+as an intelligent and interoperability node interconnected in
+a dynamic global infrastructure network, also it seeks to
+implement the connectivity concept of anything from
+anywhere at anytime. Indeed, the IoT environment
+possesses a large spectrum of challenges has a broad impact
+on their performance, which can be divided into two
+categories, namely, i) General challenges: such as
+communication, heterogeneity, virtualization and security;
+and ii) Unique challenges: such as wireless sensor network
+(WSN), Radio Frequency Identification (RFID), and finally
+Quality of service (QoS) that is considered as a common
+factor between both general and special challenges. In
+addition, this paper highlights the main applications of the
+IoT.
+Keywords
+IoT; heterogeneity; virtualization; WSN; RFID; QoS.
+1. INTRODUCTION
+Today, we are living in the era of smart technologies which
+represents a "ubiquitous computing" or “web 0.3”. Internet
+of Things (IoT) has emerged strongly as a more prosperous
+area to express this kind of a new technology. It is not the
+first technology in this field, but also the cloud computing
+technology has been used to represent the ubiquitous
+computing world. In the seventh in the series of ITU
+Internet Reports originally it was launched in 1997 under
+the title “Challenges to the Network” [1], and it was first
+coined by Kevin Ashton in the RFID journal 1999 [2], In
+2005 this name was changed to “Internet of things“. The
+vision of IoT according to Kevin’s vision was to enable
+networked devices to propagate their information about
+physical world objects through the web. In recent years, the
+most of the IoT proposed architectures are used, web
+semantic to publish information through the social
+networks; for instance, the iPhone has innovated service is
+Nike + iPod to record information and published it on the
+social networks and the social network friends [3].
+Actually, the definition of IoT varies based on who you
+talk, but formally, it can be defined as a dynamic global
+network infrastructure with self-configuration and
+interoperable communication. Simply, IoT means the
+ability to make everything around us starting from (i.e.
+Machine, Devices, Mobile phone and Cars) even (Cities
+and Roads) are expected to be connected to the Internet
+with an intelligent behavior and taking into account the
+existence of the kind of autonomy and privacy. Meanwhile,
+the IoT environment contains a huge number of the
+different objects/things can be classified into two types
+namely; i) Things rechargeable batteries things: the most of
+them are mobiles (e.g. Laptop, tablets and mobile phone),
+and ii) Things are non-rechargeable things: these things are
+static from the mobility point of view [4]. Generally, IoT
+includes three main demands are: the first, a shared
+understanding of the situation of its users and their
+applications. Secondly, software architecture and pervasive
+communication networks to cover and process contextual
+information, and lastly, the analytics tools in IoT that aims
+for autonomous and intelligent behavior [5].
+Considerably, can be expressed the principle idea of IoT is
+promoting the communication between anything from
+anywhere at anytime through context-aware applications.
+Accordingly, IoT has relied on RFID and sensor network
+technologies in the implementations. For instance, IBM
+company used IoT in Norwegian Sea oil platforms, by
+deploying sensors at seabed that are used to collect real
+information to make decision drill in the sea [3].
+On the other hand, the IoT environment like many networks
+suffering from the set of challenges which significantly
+affect their performance some of them are common and
+others, are special; the paper divides these challenges into
+two categories, namely, i) General challenges: which
+include common challenges between IoT and traditional
+network such as communication, heterogeneity, QoS,
+scalability, virtualization, data mining and security; and ii)
+Special challenges: such as RFID and WSN.
+The main objective of this paper provides an overview
+about IoT, its definition, its architecture, and discusses the
+differences between IoT and the traditional Internet; then
+highlighting the challenges of IoT and the recent research
+directions to solve them. Finally, the rest of this paper is
+summarized as follows: section II, introducing an overview
+about IoT concept, its history and its inception also
+discussing the differences between IoT and the traditional
+Internet; section III, focusing on the challenges and recent
+research directions to address them and section IV,
+reviewing a set of the most popular applications in IoT
+2. Related Work
+In this section, the paper seeks to offer a brief overview
+about IoT, its definition, its history and its inception also
+highlight the architecture design of IoT that is relied on
+three dimensions called “IoT infrastructure”; and the final
+part in this section discusses the similarities and differences
+between both IoT and traditional Internet.
