@@ -38,29 +38,38 @@ cd AskMyFiles
 
 -2️⃣ Create a virtual environment
 
-`python3 -m venv venv  
+```bash
+python3 -m venv venv  
 source venv/bin/activate   # Mac/Linux  
-venv\Scripts\activate      # Windows` 
+venv\Scripts\activate      # Windows
+```
 
 -3️⃣ Install dependencies
 
-`pip install -r requirements.txt  `
+```bash
+pip install -r requirements.txt
+```
 
 -4️⃣ Set up environment
 
-`cp .env.example .env  
-#Edit .env and add your OpenAI API key`
-
+```bash
+cp .env.example .env  
+#Edit .env and add your OpenAI API key
+```
 -🗂️ Prepare Documents
 
-`pdfs/  
+```bash
+dfs/  
 word_docs/  
-txt_docs/ ` 
+txt_docs/ 
+```
 
 -🧱 Build Embeddings
 -Run the embedding script to index all documents:
 
-`python create_embeddings.py`
+```bash
+python create_embeddings.py
+```
 
 ✅ This processes your documents, chunks them, and creates embeddings inside vector_db/.
 
@@ -68,17 +77,23 @@ txt_docs/ `
 
 -Run the interactive Q&A:
 
-`python query_docs_chain.py `
+```bash
+python query_docs_chain.py
+```
 
 -You’ll get a prompt like:
 
-`❓ Enter your question: ` 
+```bash
+❓ Enter your question:
+```
 
 
 -Ask anything about your documents.Answers include file references too.
 
-`❓ Enter your question: Do you have any research paper? If yes, then give me a summary of it`  
+```bash
+❓ Enter your question: Do you have any research paper? If yes, then give me a summary of it
 
-`💡 Answer:  `
-`Yes, I have a research paper titled "doc4.pdf." The paper provides an overview of the Internet of Things (IoT)... ` 
+`💡 Answer:  
+`Yes, I have a research paper titled "doc4.pdf." The paper provides an overview of the Internet of Things (IoT)...
+```
 
