@@ -56,7 +56,7 @@ word_docs/
 txt_docs/  
 `
 -🧱 Build Embeddings
-Run the embedding script to index all documents:
+-Run the embedding script to index all documents:
 `
 python create_embeddings.py
 `
@@ -64,19 +64,19 @@ python create_embeddings.py
 
 -💬 Query with RAG (Chat Loop)
 
-Run the interactive Q&A:
+-Run the interactive Q&A:
 `
 python query_docs_chain.py 
 `
-You’ll get a prompt like:
+-You’ll get a prompt like:
 `
 ❓ Enter your question:  
 `
 
-Ask anything about your documents.Answers include file references too.
-`
+-Ask anything about your documents.Answers include file references too.
+
 ❓ Enter your question: Do you have any research paper? If yes, then give me a summary of it  
 
 💡 Answer:  
 Yes, I have a research paper titled "doc4.pdf." The paper provides an overview of the Internet of Things (IoT)...  
-`
+
