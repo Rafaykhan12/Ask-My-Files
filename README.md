@@ -31,8 +31,10 @@ AskMyFiles saves time, reduces manual searching, and improves accuracy by lettin
 # 🚀 Installation
 -1️⃣ Clone the repository
 
-`git clone https://github.com/your-username/AskMyFiles.git  
-cd AskMyFiles` 
+```bash
+git clone https://github.com/your-username/AskMyFiles.git  
+cd AskMyFiles
+``` 
 
 -2️⃣ Create a virtual environment
 
