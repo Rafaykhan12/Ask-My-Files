@@ -90,6 +90,7 @@ python query_docs_chain.py
 
 -Ask anything about your documents.Answers include file references too.
 
+Example:
 ```bash
 ❓ Enter your question: Do you have any research paper? If yes, then give me a summary of it
 
